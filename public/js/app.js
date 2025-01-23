@@ -28,7 +28,3 @@ weatherForm.addEventListener('submit',(e) => {
         })
     })
 })
-
-
-// id_ed25519
-// id_ed25519.pub
